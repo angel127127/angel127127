@@ -3,7 +3,9 @@
 I'm a driven computer science student with a strong interest in cybersecurity and data science. 
 I enjoy building practical projects with a clear end goal, and strengthening my technical knowledge. 
 
-I have hands on project experience and I am currently focused on expanding my skills in offensive and defensive security techniques.
+I have hands-on project experience and I am currently focused on expanding my skills in offensive and defensive security techniques.
+
+My current project involves the FastF1 python library - I'm trying to make a program that takes a race and a year and creates a graph using MATLAB to show the tyre stints of each driver - it isn't finished just yet though!
 
 Languages: Python, Java, Javascript, C, C++, SQL
 
