@@ -14,7 +14,7 @@ Connect with me:
 - Email: am05160@surrey.ac.uk
 
 
-⭐️ *I am open to internships, placements, and opportunities in the field of cybersecurity and embedded systems.*  
+⭐️ *I am open to internships, placements, and opportunities in the fields of cybersecurity, software engineering and embedded systems.*  
 <!--
 **angel127127/angel127127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
